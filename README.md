@@ -7,7 +7,7 @@
 A bit about me 🕺
 - 🏢 Currently working as a Software Engineer at Citizens Bank.
 - 🖥️ Fascinated with OS development and programming language design.
-- 🍲 Cooking and 🥾 Hiking are some of the things I enjoy in my spare time (when I'm not busy with a new programming language 🐙)
+- 🍲 Cooking, 🥾 Hiking, and 🎮 Gaming are some of the things I enjoy in my spare time (when I'm not busy with a new programming language 🐙)
 - ❤️ Pronouns: He/Him
 
 ## New England 🏖️⛵🦞⛰️
