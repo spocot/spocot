@@ -12,7 +12,7 @@ A bit about me 🕺
 
 ## New England 🏖️⛵🦞⛰️
 
-Right now I live in Warwick, Rhode Island but I've been kicking it around the Northeast for my entire life.
+Right now I live in Warwick, Rhode Island but I've been kicking it around the Northeast for my entire life. I'm excited to travel/live in/experience other parts of the US and the world!
 
 There are a ton of amazing parks, beaches, and food around New England and I always love to give recommendations!
 
