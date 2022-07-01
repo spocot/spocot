@@ -1,4 +1,4 @@
-### Howdy! I'm Spencer Kocot 💻🍺🎮🦞
+### Howdy! I'm Spencer Kocot (He/Him) 💻🍺🎮🦞
 ![](https://komarev.com/ghpvc/?username=spocot)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/spencer-kocot)
@@ -8,7 +8,6 @@ A bit about me 🕺
 - 🏢 Currently working as a Software Engineer at Citizens Bank.
 - 🖥️ Fascinated with OS development and programming language design.
 - 🍲 Cooking, 🥾 Hiking, and 🎮 Gaming are some of the things I enjoy in my spare time (when I'm not busy with a new programming language 🐙)
-- ❤️ Pronouns: He/Him
 
 ## New England 🏖️⛵🦞⛰️
 
