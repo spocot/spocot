@@ -1,15 +1,15 @@
-### Howdy! I'm Spencer Kocot (He/Him) 💻🍺🎮🦞
+### Howdy! I'm Spencer Kocot (He/Him) 💻🍺🎮
 ![](https://komarev.com/ghpvc/?username=spocot)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/spencer-kocot)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://kocot.dev/)
 
-A bit about me 🕺
+A bit about me
 - 🏢 Currently working as a Software Engineer at Citizens Bank.
 - 🖥️ Fascinated with OS development and programming language design.
-- 🍲 Cooking, 🥾 Hiking, and 🎮 Gaming are some of the things I enjoy in my spare time (when I'm not busy with a new programming language 🐙)
+- 🍲 Cooking, 🥾 Hiking, and 🎮 Gaming are some of the things I enjoy in my spare time (when I'm not busy with a new programming language)
 
-## New England 🏖️⛵🦞⛰️
+## New England 🦞
 
 Right now I live in Warwick, Rhode Island but I've been kicking it around the Northeast for my entire life. I'm excited to travel/live in/experience other parts of the US and the world!
 
